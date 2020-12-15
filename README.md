@@ -11,6 +11,13 @@
 </p>
  
 <h3>3. What is HTTP method OPTIONS?</h3>
+<p>OPTIONS請求旨在發送一種“探測”請求以確定針對某個目標地址的請求必須具有怎樣的約束（比如應該採用怎樣的HTTP方法以及自定義的請求報頭），<br>
+ 然後根據其約束發送真正的請求。比如針對“跨域資源”的預檢（Preflight）請求採用的HTTP方法就是OPTIONS。
+
+簡而言之，OPTIONS請求方法的主要用途有兩個：<br>
+1、獲取服務器支持的HTTP請求方法；<br>
+2、用來檢查服務器的性能。<br>
+</p>
 
 <h3>4. Describe BFC (Block Formatting Context) and how it works.</h3>
 <p>具有 BFC（格式化上下文） 特性的元素可以看作是隔離的容器，容器里面的元素不會在布局上影響到外面的元素
