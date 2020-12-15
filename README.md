@@ -4,7 +4,8 @@
 ![img](https://img.onl/TcO0dZ)
 <h3>2. What does CORS stand for and what issue does it address?<h3>
  
-<p>中文叫:跨來源資源共用<br>
+<p>
+ 中文叫:跨來源資源共用<br>
 是一種使用額外 HTTP標頭令目前瀏覽網站的使用者代理取得存取其他來源（網域）伺服器特定資源權限的機制。當使用者代理請求一個不是目前來源——例如來自於不同網域、通訊協定或通訊埠的資源時，會建立一個跨來源 HTTP 請求。<br>
 跨來源資源共用機制提供了網頁伺服器跨網域的存取控制，增加跨網域資料傳輸的安全性。現代瀏覽器支援在 API 容器（如 XMLHttpRequest）中使用 CORS 以降低跨來源 HTTP 請求的風險。
 </p>
