@@ -2,7 +2,7 @@
 <h3>1.Explain the difference between cookies, session storage, and local storage?<h3>
 
 ![img](https://img.onl/TcO0dZ)
-<h3>2. What does CORS stand for and what issue does it address?<h3>
+<h3>2. What does CORS stand for and what issue does it address?</h3>
  
 <p>
  中文叫:跨來源資源共用<br>
