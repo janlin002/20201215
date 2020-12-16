@@ -20,7 +20,7 @@
 </p>
 
 <h3>4. Describe BFC (Block Formatting Context) and how it works.</h3>
-<p>具有 BFC（格式化上下文） 特性的元素可以看作是隔離的容器，容器里面的元素不會在布局上影響到外面的元素
+<p>具有 BFC（格式化上下文） 特性的元素可以看作是隔離的容器，容器里面的元素不會在布局上影響到外面的元素<br>
 會觸發的條件：<br>
   <ul>
     <li>body 根元素</li>
