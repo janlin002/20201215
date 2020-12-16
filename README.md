@@ -54,6 +54,6 @@ compositing:當畫面上的元素被畫好了，放在不同的圖層。 而且�
 [連結](https://codepen.io/ytiimefp/pen/xxEqrvM)
 <h3>7. What tools would you use to find a performance bug in your code?</h3>
 <ol>
-  <li>Chrome DevTools</li>
+  <li>Chrome DevTools(Lighthouse)</li>
   <li>VsCode 中斷點</li>
  </ol>
